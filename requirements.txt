@@ -1,0 +1,11 @@
+discord.py
+discord.py[voice]
+aiohttp
+websockets
+chardet
+PyNaCl
+ffmpeg
+opuslib
+jishaku
+numpy
+Cybernator==3.0
