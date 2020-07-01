@@ -8,4 +8,4 @@ ffmpeg
 opuslib
 jishaku
 numpy
-Cybernator==0.5.1
+Cybernator==0.5.2
